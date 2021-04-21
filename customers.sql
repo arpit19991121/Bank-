@@ -21,16 +21,16 @@ CREATE TABLE `customers` (
 --
 
 INSERT INTO `customers` (`customer_id`, `name`, `email`, `current_balance`) VALUES
-(1, 'Ram gulati', 'dgulve@gmail.com', 35000),
-(2, 'Harsimran Bagga', 'bgulve@gmail.com', 65000),
-(3, 'Vikas shukla', 'aartimadane@gmail.com', 10000),
-(4, 'Suresh Raina', 'sachinbudhavale@gmail.com', 65000),
-(5, 'Ankit Yadav', 'vijaygawade@gmail.com', 75644),
-(6, 'Digambar Jain', 'maheshkamble@gmail.com', 45000),
-(7, 'Karan Mehta', 'chandrikakatekar@gmail.com', 35000),
-(8, 'Suman Makkar', 'sunitajoshi@gmail.com', 65000),
-(9, 'Pawan kumar', 'poonampawar@gmail.com', 75000),
-(10, 'Shyam Sharma', 'suchitramore@gmail.com', 80000);
+(1, 'Ram gulati', 'ramgulati@gmail.com', 35000),
+(2, 'Harsimran Bagga', 'baggaji@gmail.com', 65000),
+(3, 'Vikas shukla', 'vshukla@gmail.com', 10000),
+(4, 'Suresh Raina', 'rainasuresh@gmail.com', 65000),
+(5, 'Ankit Yadav', 'yadav234@gmail.com', 75644),
+(6, 'Digambar Jain', 'digambarjain@gmail.com', 45000),
+(7, 'Karan Mehta', 'kmehta@gmail.com', 35000),
+(8, 'Suman Makkar', 'makkarsuman@gmail.com', 65000),
+(9, 'Pawan kumar', 'kumarpawan@gmail.com', 75000),
+(10, 'Shyam Sharma', 'sharmaji@gmail.com', 80000);
 
 --
 -- Indexes for dumped tables
